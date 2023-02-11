@@ -1,0 +1,4 @@
+{
+    "avdmanager.sdkManager": "/home/talha/snap/flutter/common/flutter/bin/flutter",
+    "cmake.sourceDirectory": "${workspaceFolder}/linux"
+}
